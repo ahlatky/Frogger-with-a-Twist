@@ -10,9 +10,9 @@ If unfamiliar with how frogger works, follow this [link](http://www.classicgamin
 
 ## Install
 
-No installation necessary. Follow this [link](file:///Users/andreahlatky/Desktop/Front%20End%20Web%20Dev%20Nanodegree%20/project-5-classic-arcade-game-clone/frontend-nanodegree-arcade-game/index.html) to play the game.
+No installation necessary. Follow this [link](https://github.com/ahlatky/Frogger-with-a-Twist) to play the game.
 
-Play as many times as you would like!
+Play as many times as you would like! Enjoy!
 
 ## Contributing 
 
