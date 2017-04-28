@@ -10,7 +10,7 @@ If unfamiliar with how frogger works, follow this [link](http://www.classicgamin
 
 ## Install
 
-No installation necessary. Follow this [link](https://github.com/ahlatky/Frogger-with-a-Twist) to play the game.
+No installation necessary. Follow this [link](https://github.com/ahlatky/Frogger-with-a-Twist) and load index.html file to play the game.
 
 Play as many times as you would like! Enjoy!
 
